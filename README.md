@@ -76,23 +76,6 @@ To make the model more explainable:
 
 ---
 
-## 🧪 Sample Grad-CAM Output
-
-<p align="center">
-  <img src="https://i.imgur.com/JuD3jf8.png" alt="Grad-CAM Output" width="500"/>
-</p>
-
----
-
-## 🚀 Future Improvements
-
-- Add **ROC-AUC curves** for evaluation
-- Try **ensemble of CNNs** (e.g., EfficientNet + ResNet)
-- Deploy the model using **Streamlit** or **Flask**
-- Add **multi-class classification** (Viral vs Bacterial Pneumonia)
-
----
-
 ## 📦 Output
 
 - Trained model saved as `.h5`  
